@@ -1,0 +1,11 @@
+{
+  "name": "最低精确率降到 60%",
+  "settings": {
+    "minPrecision": 0.6
+  },
+  "checkpoint": {
+    "metric": "threshold",
+    "expected": 0.5,
+    "absoluteTolerance": 1e-10
+  }
+}

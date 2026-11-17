@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "evaluated": true,
+    "falseNegative": 1,
+    "falsePositive": 0
+  },
+  "row": {
+    "id": "C",
+    "errorType": "FN"
+  }
+}

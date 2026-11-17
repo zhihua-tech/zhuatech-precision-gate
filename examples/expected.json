@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "feasible": true,
+    "threshold": 0.9,
+    "positives": 2
+  },
+  "row": {
+    "threshold": 0.5,
+    "tp": 2,
+    "fp": 1
+  }
+}

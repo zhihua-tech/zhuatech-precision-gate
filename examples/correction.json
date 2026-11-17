@@ -1,0 +1,8 @@
+{
+  "row": 2,
+  "id": "C",
+  "field": "truth",
+  "before": 1,
+  "after": 0,
+  "reason": "更正样本的人工真值"
+}

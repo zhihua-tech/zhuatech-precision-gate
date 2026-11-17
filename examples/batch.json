@@ -1,0 +1,23 @@
+{
+  "title": "分类阈值验收验收样本",
+  "settings": {
+    "minPrecision": 0.8
+  },
+  "rows": [
+    {
+      "id": "A",
+      "score": 0.9,
+      "truth": 1
+    },
+    {
+      "id": "B",
+      "score": 0.5,
+      "truth": 0
+    },
+    {
+      "id": "C",
+      "score": 0.5,
+      "truth": 1
+    }
+  ]
+}

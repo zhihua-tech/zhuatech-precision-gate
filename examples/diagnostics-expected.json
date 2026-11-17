@@ -1,0 +1,8 @@
+{
+  "metrics": {
+    "brier": 0.17,
+    "ece": 0.03333333333333333,
+    "occupiedBins": 2
+  },
+  "tolerance": 1e-10
+}
